@@ -1,0 +1,2 @@
+0bc86e38dc38f819780b2db73455708dfbfe0190a45c982eaca512c50465dca5  RADUSELF-LibVLC-305-sources-core-review.zip
+9d7f90760c75ea0d633385d6f7bb892cdce882218f913803960c837d9a0780c6  RADUSELF-LibVLC-305-sources-contrib-review.zip
